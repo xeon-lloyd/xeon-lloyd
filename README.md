@@ -45,7 +45,7 @@ As Known As **"무능한 제온씨"**
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/f0a66e06-62fc-42c8-9664-fa7fd16198c9" height="30"><br>
+			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/52e421a1-4abf-423f-b645-07425e3b8bd7" height="30"><br>
 			<b>cricrip</b><br>
 
 > <i>(운영 종료)</i><br>
@@ -63,19 +63,25 @@ As Known As **"무능한 제온씨"**
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/7f0dbfe5-8a96-424c-ac7b-63bdc1e7427a" height="30"><br>
+			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/f744169d-9389-4c37-966d-f66a7c0a2c74" height="30"><br>
 			<b>YukaiGames</b><br>
 
 > https://yukaigames.com<br>
 웹게임 엔진/제작/유통 플랫폼<br>
 2017.12 ~ 2022.08 *(우선순위에서 밀려 방치중)*
 
+웹에서 클라우드 환경으로 설치 없이 게임 제작, 유통, 플레이를 할 수 있는 통합 플랫폼<br>
+고등학생 때부터 하고 있는 인생을 건 장기 애착 프로젝트.<br>
+그러나 혼자서 감당할 수 없는 너무나 거대한 프로젝트 규모와 다른 프로젝트에 집중하기 위해서 유기된...<br>
+*~~(언젠가 다시 잡을 날이 오길..?)~~*<br>
+<br>
+이거 만들면서 지금 실력의 대부분을 만들 수 있었습니다😁
 
 </td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/d18a63d2-615a-47df-b7b5-376260264af3" height="30"><br>
+			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/e5941299-3e39-4f5f-ab32-85452262c351" height="30"><br>
 			<b>marshmelody</b><br>
 
 > https://marshmelody.net<br>
@@ -100,7 +106,7 @@ As Known As **"무능한 제온씨"**
 <table>
 	<tr>
 		<td>
-			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/a2fc93ce-66cd-4908-9a75-d9287c7fecb4" height="30"><br>
+			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/aec3aef2-da5a-4de3-98a9-999f1f5918e8" height="30"><br>
 			<b>재고블럭 API</b><br>
 
 > 재고블럭:재고 관리의 새로운 패러다임<br>
@@ -111,7 +117,7 @@ As Known As **"무능한 제온씨"**
 	</tr>
 	<tr>
 		<td>
-			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/a2fc93ce-66cd-4908-9a75-d9287c7fecb4" height="30"><br>
+			<img src="https://github.com/xeon-lloyd/xeon-lloyd/assets/24987527/aec3aef2-da5a-4de3-98a9-999f1f5918e8" height="30"><br>
 			<b>재고블럭 POS기 가상 프린터 클라이언트</b><br>
 
 > 영수증 수집을 위한 POS에 설치하는 가상프린터 클라이언트<br>
@@ -230,8 +236,12 @@ As Known As **"무능한 제온씨"**
 
 <h4>잉? 프레임워크 안써요?</h4>
 
- - 네, 따로 프레임워크를 사용하지 않고 순수 CSS, JS(Front/Back)에서 개발합니다. *~~(그래서 취업 시장에서는 싫어하더라고요...ㅠ)~~* <br>
- - 대신 자체적으로 정리해서 만든 라이브러리가 있어요. 이걸로 생산성을 높였어요 <br>
+ - 네, 따로 프레임워크를 사용하지 않고 순수 CSS, JS(Front/Back)에서 개발합니다. *~~(그래서 취업 시장에서는 싫어하더라고요...ㅠ)~~*
+ - 대신 자체적으로 정리해서 만든 라이브러리가 있어요. 이걸로 생산성을 높였어요
+   
+   - 프론트엔드 : *(public repo로 작성하기 위해서 정리중)*
+   - 백엔드(코어) : <a href="https://github.com/xeon-lloyd/ritchko-backend-core">ritchko-backend-core</a>
+   - 백엔드(API) : <a href="https://github.com/xeon-lloyd/ritchko-api-template">ritchko-api-template</a>
 
 <br>
 
@@ -313,7 +323,7 @@ As Known As **"무능한 제온씨"**
 - INTP인데 이제 사회화 된
 - 고기를 좋아해요
 - 여자친구 없어요
-  - 아 있었는데? - 네..
+  - 아 있었는데? - 네.. *~~오래전에..~~*
 - 수원시에 서식해요
 - 군필이에요 *(육군 1사단 21군번, 계산병 했음)*
 - 생일은 2001년 6월 24일
