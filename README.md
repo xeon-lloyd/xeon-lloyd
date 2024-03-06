@@ -33,7 +33,7 @@ As Known As **"무능한 제온씨"**
 <table>
 	<tr>
 		<td>
-			<img src="https://tewind.kr/img/logo.png" height="30"><br>
+			<img src="https://tewind.app/img/logo.png" height="30"><br>
 			<b>Te:wind</b><br>
 
 > https://tewind.kr<br>
