@@ -246,10 +246,7 @@ As Known As **"무능한 제온씨"**
 
  - 네, 따로 프레임워크를 사용하지 않고 순수 CSS, JS(Front/Back)에서 개발합니다. *~~(그래서 취업 시장에서는 싫어하더라고요...ㅠ)~~*
  - 대신 자체적으로 정리해서 만든 라이브러리가 있어요. 이걸로 생산성을 높였어요
-   
-   - 프론트엔드 : *(public repo로 작성하기 위해서 정리중)*
-   - 백엔드(코어) : <a href="https://github.com/xeon-lloyd/ritchko-backend-core">ritchko-backend-core</a>
-   - 백엔드(API) : <a href="https://github.com/xeon-lloyd/ritchko-api-template">ritchko-api-template</a>
+   - 웹 프로젝트 템플릿 : <a href="https://github.com/xeon-lloyd/ritchko-template">ritchko-template</a>
 
 <br>
 
