@@ -391,7 +391,7 @@ As Known As **"무능한 제온씨"**
 ```백엔드``` 클립 생성 API 서버 구축
 
 ```cloudflare/stream``` ```Azure MQ```   
-```next.js``` ```ffmpeg``` ```redis```
+```nest.js``` ```ffmpeg``` ```redis```
 
 *퇴사 사유: 복학 이슈*
 </td>
