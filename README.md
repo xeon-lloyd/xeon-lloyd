@@ -23,6 +23,10 @@ As Known As **"무능한 제온씨"**
 근데 사실 웬만한 분야는 다 찍먹해봐서 이것저것 아는! 이에요<br>
 <br>
 
+**포트폴리오** : https://portfolio.ritchko.com  
+<br>
+<br>
+
 * * *
 
 <h2>⛏️ 하고 있는거</h2>
