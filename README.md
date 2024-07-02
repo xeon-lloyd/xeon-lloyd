@@ -255,7 +255,7 @@ As Known As **"무능한 제온씨"**
 <table>
 	<tr>
 		<td align="center">
-  			<img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" height="35" alt="amazonwebservices logo"  />
 			<div style="text-align: center;">AWS</div>
 		</td>
 		<td align="center">
