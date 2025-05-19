@@ -41,18 +41,18 @@ As Known As **"무능한 제온씨"**
 <table>
 	<tr>
 		<td>
-			<img src="https://tewind.app/img/logo.png" height="30"><br>
+			<img src="./img/tewind_logo.png" height="30"><br>
 			<b>Te:wind</b><br>
 
-> https://tewind.app<br>
+> *~~https://tewind.app~~* *(운영 종료)*<br>
 트위치 방송 녹화 서비스<br>
-2024.02 ~ 
+2024.02 ~ 2025.02
 
 > *~~https://tewind.kr~~* *(운영 종료)*<br>
 트위치 다시보기 서비스<br>
 2023.04 ~ 2024.02
 
-```ffmpeg``` ```hls``` ```카드 정기결제```  
+```ffmpeg``` ```hls``` ```카드 정기결제``` ```PAYPAL```  
 ```nodejs``` ```aws``` ```s3``` ```cloudflare/workers```  
 ```vanilla js/css```
 
@@ -61,6 +61,8 @@ As Known As **"무능한 제온씨"**
 <br>
 그 와중에 트위치가 2024년 2월 한국에서 철수해버려서 방향을 조금 비틀어서<br>
 키리누커나 팬영상 제작자를 위한 클라우드 녹화 서비스로 바꿔서 운영<br>
+<br>
+했지만! 역시나 해외에는 다시보기 서비스가 존재함에 따라 큰 수요가 없어 적자를 보기 시작할때 철수
 <br>
 [>> 프로젝트 더 알아보기](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=6f4777f0c1d24e238d27bcf756833238&pm=c)
 <br>
@@ -376,7 +378,8 @@ As Known As **"무능한 제온씨"**
 뉴이스트아트 *(A.K.A 믐)*  
 <a href="https://meum.me">https://meum.me</a>
 
-> 2020-10-12 ~ 2021-03-31 *(만 5개월)*
+> 2020-10-12 ~ 2021-03-31 *(6개월)*  
+> **정규직**
 
 ```프론트엔드``` 웹사이트 구축, 서버 연동, 유니티 프론트 연동
 
@@ -388,19 +391,38 @@ As Known As **"무능한 제온씨"**
 	</tr>
 	<tr>
 		<td>
-  			<img src="https://pbs.twimg.com/profile_images/1589499044698603521/DhvNvMX7_400x400.jpg" height="35" alt="stickybomb logo"  />
+  			<img src="./img/stickybomb_logo.png" height="35" alt="stickybomb logo"  />
 
 트리니들 *(A.K.A 스티키밤)*  
 <a href="https://stickybomb.kr">https://stickybomb.kr</a>
 
-> 2022-12-01 ~ 2023-02-28 *(만 3개월)*
+> 2022-12-01 ~ 2023-02-28 *(3개월)*  
+> **프리랜서**
 
 ```백엔드``` 클립 생성 API 서버 구축
 
 ```cloudflare/stream``` ```Azure MQ```   
-```nest.js``` ```ffmpeg``` ```redis```
+```nest.js``` ```typeorm``` ```ffmpeg``` ```redis```
 
 *퇴사 사유: 복학 이슈*
+</td>
+	</tr>
+	<tr>
+		<td>
+  			<img src="./img/hit_logo.png" height="35" alt="hit logo"  />
+
+hit dx solution *(wedding pro)*  
+<a href="https://hitdxsolution.web.app">https://hitdxsolution.web.app</a>
+
+> 2024-07-31 ~ 2025-04-11 *(9개월)*  
+> **정규직**
+
+```백엔드``` wedding pro CRM 서비스 API 서버 및 인프라 구축
+
+```mysql``` ```socket.io``` ```firebase```  
+```nest.js``` ```typeorm``` ```docker```
+
+*퇴사 사유: 휘청이는 회사, 프로젝트 집중*
 </td>
 	</tr>
 </table>
@@ -432,8 +454,7 @@ As Known As **"무능한 제온씨"**
   - 그럼 뭘로 버티냐고 물어보던데 그냥 정신력으로...
 - INTP인데 이제 사회화 된
 - 고기를 좋아해요
-- 여자친구 없어요
-  - 아 있었는데? - 네.. *~~오래전에..~~*
+- 여자친구 있어요
 - 수원시에 서식해요
 - 군필이에요 *(육군 1사단 21군번, 계산병 했음)*
 - 생일은 2001년 6월 24일
