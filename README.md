@@ -2,6 +2,7 @@
 이리저리 웹 개발을 하다가 서버 개발자로 자리잡아가고 있는 중  
 서비스 만드는거 좋아하는 본투비 창업 개발자  
 
+[👉 이력서, 경력 기술서](https://static.ritchko.com/cv.pdf)  
 [👉 경력 기술서, 프로젝트 및 포트폴리오](https://portfolio.ritchko.com)  
 
 
@@ -30,7 +31,7 @@
 ## ⛏️ Projects
 |유형|프로젝트명|기간|내용|
 |----------|-------|------|---|
-|창업팀|[펫패스](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=24a33ac3dd7c800c846fd2ac5a8705f9&pm=c)|2024-07 ~ 진행중|강아지 산책대행 매칭 플랫폼|
+|창업팀|[펫패스](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=24a33ac3dd7c800c846fd2ac5a8705f9&pm=c)|2024-07 ~ 2026-01|강아지 산책대행 매칭 플랫폼|
 |1인창업|[티와인드](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=6f4777f0c1d24e238d27bcf756833238&pm=c)|2023-02 ~ 2024-02|트위치 방송 다시보기 서드파티|
 |1인 사이드 프로젝트(서비스)|[크리크립](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=2183fa8adaf943ccac710a658adb566c&pm=c)|2022-11 ~ 2023-02|트위치 실시간 클립 생성 서드파티|
 |1인 사이드 프로젝트|[나우레인](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=78bacf43f2ea447f96f23b07bf4554a2&pm=c)|2023-07-22(6h)|초단기 강수예보 웹앱|
