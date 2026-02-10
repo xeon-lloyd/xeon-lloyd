@@ -31,6 +31,7 @@
 ## ⛏️ Projects
 |유형|프로젝트명|기간|내용|
 |----------|-------|------|---|
+|1인 사이드 프로젝트(서비스)|[로또봇](https://succinct-pound-734.notion.site/49bc4fc2d693408ba0e208b1073b2137?p=2c533ac3dd7c803ab07df1a2585da6b8&pm=c)|2025-07 ~ 운영중|동행복권 구매 자동화 도구|
 |창업팀|[펫패스](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=24a33ac3dd7c800c846fd2ac5a8705f9&pm=c)|2024-07 ~ 2026-01|강아지 산책대행 매칭 플랫폼|
 |1인창업|[티와인드](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=6f4777f0c1d24e238d27bcf756833238&pm=c)|2023-02 ~ 2024-02|트위치 방송 다시보기 서드파티|
 |1인 사이드 프로젝트(서비스)|[크리크립](https://succinct-pound-734.notion.site/IT-49bc4fc2d693408ba0e208b1073b2137?p=2183fa8adaf943ccac710a658adb566c&pm=c)|2022-11 ~ 2023-02|트위치 실시간 클립 생성 서드파티|
