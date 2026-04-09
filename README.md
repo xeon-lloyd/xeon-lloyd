@@ -7,6 +7,11 @@
 
 
 ## 💼 Works
+**디디에이치 (A.K.A PANO)**  
+[👉 구강 파노라마 엑스레이 AI 분석 및 각종 치과 보조 서비스](https://www.ddhinc.net)  
+- API 백엔드 서버 개발자 (2026-03 ~ 재직중) 
+#
+
 **에이치아이티 (A.K.A WEDDINGPRO)**  
 [👉 웨딩 업체 CRM 서비스](https://hitdxsolution.web.app/)  
 - API 백엔드 서버 개발자 (2024-07 ~ 2025-04) 
