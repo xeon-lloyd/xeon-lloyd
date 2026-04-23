@@ -2,7 +2,6 @@
 이리저리 웹 개발을 하다가 서버 개발자로 자리잡아가고 있는 중  
 서비스 만드는거 좋아하는 본투비 창업 개발자  
 
-[👉 이력서, 경력 기술서](https://static.ritchko.com/cv.pdf)  
 [👉 경력 기술서, 프로젝트 및 포트폴리오](https://portfolio.ritchko.com)  
 
 
